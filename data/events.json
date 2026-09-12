@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:50:59",
+  "generated_at": "2026-09-12T00:56:20",
   "dates": [
     "2026-09-07",
     "2026-09-08",
@@ -35,8 +35,33 @@
           "note": "公報 API 只提供當日資料，非今日區間標為缺口"
         },
         "2026-09-11": {
-          "state": "gap",
-          "note": "公報 API 只提供當日資料，非今日區間標為缺口"
+          "state": "hit",
+          "records": [
+            {
+              "meta_id": "168279",
+              "gazette_id": "院臺衛字第1151023362號",
+              "title": "行政院公告：修正「管制藥品分級及品項」部分分級及品項，自115年9月15日生效",
+              "agency": "行政院",
+              "undertake_agency": "行政院",
+              "category": "法規",
+              "chapter": "綜合行政篇",
+              "date_published_roc": "中華民國115年9月11日",
+              "date_published": "2026-09-11",
+              "url": "https://gazette.nat.gov.tw/egFront/detail.do?metaid=167368&log=detailLog"
+            },
+            {
+              "meta_id": "168253",
+              "gazette_id": "",
+              "title": "行政院第4019次會議院長提示暨院會決定決議事項",
+              "agency": "行政院",
+              "undertake_agency": "國家發展委員會",
+              "category": "專載",
+              "chapter": "附錄",
+              "date_published_roc": "中華民國115年9月11日",
+              "date_published": "2026-09-11",
+              "url": ""
+            }
+          ]
         }
       }
     },
@@ -85,8 +110,9 @@
           "views": 303
         },
         "2026-09-10": {
-          "state": "gap",
-          "note": "維基百科瀏覽量有處理延遲，這天資料還沒生成"
+          "state": "hit",
+          "article": "立法院",
+          "views": 317
         },
         "2026-09-11": {
           "state": "gap",
