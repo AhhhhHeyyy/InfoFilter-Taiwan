@@ -4,7 +4,7 @@
   "seed_bill_no": "202110228820000",
   "clock_anchor": "2026-01-01",
   "clock_anchor_note": "起算點由人指定，程式不自動判定——見共筆〈clock_anchor 規格缺口〉",
-  "bill_count": 11,
+  "bill_count": 10,
   "nodes": [
     {
       "date": "2026-06-26",
@@ -753,43 +753,6 @@
       "node_index": 20,
       "days_since_anchor": 225,
       "days_since_prev": 0
-    },
-    {
-      "date": "2026-08-21",
-      "bill_no": "202110231310000",
-      "bill_title": "「食品安全衛生管理法部分條文修正草案」，請審議案。",
-      "bill_url": "https://ppg.ly.gov.tw/ppg/bills/202110231310000/details",
-      "status": "排入院會",
-      "meeting_code": null,
-      "bill_type": "法律案",
-      "proposal_source": "委員提案",
-      "proposer_unit": "本院委員陳菁徽等17人",
-      "proposers": [
-        "陳菁徽"
-      ],
-      "cosigners": [
-        "王鴻薇",
-        "黃建賓",
-        "廖偉翔",
-        "黃仁",
-        "王育敏",
-        "翁曉玲",
-        "鄭正鈐",
-        "葉元之",
-        "涂權吉",
-        "洪孟楷",
-        "魯明哲",
-        "蘇清泉",
-        "鄭天財Sra Kacaw",
-        "陳雪生",
-        "呂玉玲",
-        "黃健豪"
-      ],
-      "term": 11,
-      "term_session": 5,
-      "node_index": 21,
-      "days_since_anchor": 232,
-      "days_since_prev": 7
     }
   ]
 }
