@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:15:43",
+  "generated_at": "2026-11-07T02:33:59",
   "dates": [
     "2026-11-02",
     "2026-11-03",
@@ -35,8 +35,21 @@
           "note": "公報 API 只提供當日資料，非今日區間標為缺口"
         },
         "2026-11-06": {
-          "state": "gap",
-          "note": "公報 API 只提供當日資料，非今日區間標為缺口"
+          "state": "hit",
+          "records": [
+            {
+              "meta_id": "169291",
+              "gazette_id": "",
+              "title": "行政院第4027次會議院長提示暨院會決定決議事項",
+              "agency": "行政院",
+              "undertake_agency": "國家發展委員會",
+              "category": "專載",
+              "chapter": "附錄",
+              "date_published_roc": "中華民國115年11月6日",
+              "date_published": "2026-11-06",
+              "url": ""
+            }
+          ]
         }
       }
     },
@@ -85,8 +98,9 @@
           "views": 557
         },
         "2026-11-05": {
-          "state": "gap",
-          "note": "維基百科瀏覽量有處理延遲，這天資料還沒生成"
+          "state": "hit",
+          "article": "立法院",
+          "views": 513
         },
         "2026-11-06": {
           "state": "gap",
