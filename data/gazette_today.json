@@ -1,14 +1,26 @@
 [
   {
-    "meta_id": "169291",
-    "gazette_id": "",
-    "title": "行政院第4027次會議院長提示暨院會決定決議事項",
-    "agency": "行政院",
-    "undertake_agency": "國家發展委員會",
-    "category": "專載",
-    "chapter": "附錄",
-    "date_published_roc": "中華民國115年11月6日",
-    "date_published": "2026-11-06",
+    "meta_id": "169346",
+    "gazette_id": "工程企字第1150100417號",
+    "title": "行政院公共工程委員會公告：預告「機關採購工作及審查小組設置及作業辦法」第8條之1修正草案",
+    "agency": "行政院公共工程委員會",
+    "undertake_agency": "行政院公共工程委員會",
+    "category": "公告及送達",
+    "chapter": "交通建設篇",
+    "date_published_roc": "中華民國115年11月9日",
+    "date_published": "2026-11-09",
+    "url": ""
+  },
+  {
+    "meta_id": "169351",
+    "gazette_id": "工程企字第1150100535號",
+    "title": "行政院公共工程委員會公告：預告「中央機關未達公告金額採購招標辦法」第2條修正草案",
+    "agency": "行政院公共工程委員會",
+    "undertake_agency": "行政院公共工程委員會",
+    "category": "公告及送達",
+    "chapter": "交通建設篇",
+    "date_published_roc": "中華民國115年11月9日",
+    "date_published": "2026-11-09",
     "url": ""
   }
 ]
