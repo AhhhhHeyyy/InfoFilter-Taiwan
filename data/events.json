@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:12:09",
+  "generated_at": "2026-11-14T02:55:47",
   "dates": [
     "2026-11-09",
     "2026-11-10",
@@ -86,8 +86,21 @@
           ]
         },
         "2026-11-13": {
-          "state": "gap",
-          "note": "公報 API 只提供當日資料，非今日區間標為缺口"
+          "state": "hit",
+          "records": [
+            {
+              "meta_id": "169463",
+              "gazette_id": "",
+              "title": "行政院第4028次會議院長提示暨院會決定決議事項",
+              "agency": "行政院",
+              "undertake_agency": "國家發展委員會",
+              "category": "專載",
+              "chapter": "附錄",
+              "date_published_roc": "中華民國115年11月13日",
+              "date_published": "2026-11-13",
+              "url": ""
+            }
+          ]
         }
       }
     },
@@ -136,8 +149,9 @@
           "views": 459
         },
         "2026-11-12": {
-          "state": "gap",
-          "note": "維基百科瀏覽量有處理延遲，這天資料還沒生成"
+          "state": "hit",
+          "article": "立法院",
+          "views": 437
         },
         "2026-11-13": {
           "state": "gap",
